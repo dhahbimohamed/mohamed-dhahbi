@@ -1,21 +1,29 @@
-# 🐍 Python Practice – Daily Coding for Fluency
+# 👋 Hi, I'm Mohamed Dhahbi
 
-This repo contains my **daily Python practice** for Summer 2025.  
-I’m using it to improve my problem-solving, syntax recall, and speed in writing clean Python code.
+🎓 Computer Science Student | 🇹🇳 Tunisia  
+🧠 Passionate about AI, Machine Learning, and Problem Solving  
+📚 Currently preparing for my final project and pursuing a master's in AI  
 
 ---
 
-## 🧠 Goals
+## 🔭 What I'm Working On
 
-- Practice Python every day (15–30 minutes)
-- Build muscle memory for syntax
-- Improve logic and problem-solving for AI research
-- Prepare for future interviews and ML code writing
+- `ml-summer-2025`: My self-directed Machine Learning learning plan  
+- `python-practice`: Daily Python exercises to master syntax and logic  
+- Upcoming: Final year project + research in AI
+
 ---
 
-## 🧰 Practice Sources
+## 🎯 Goals (Summer 2025)
 
-- [Exercism Python Track](https://exercism.org/tracks/python)
-- [LeetCode Easy Problems](https://leetcode.com/problemset/?difficulty=Easy)
-- [Edabit Challenges](https://edabit.com/challenges/python3)
-- [CodingBat Python](https://codingbat.com/python)
+- Finish core machine learning foundations
+- Improve Python and algorithmic thinking
+- Build solid projects and write clean, professional code
+- Prepare for a master's in AI or ML
+- Become AI researcher-ready 💻
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 mohamed.your.email@example.com
