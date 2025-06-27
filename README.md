@@ -11,17 +11,6 @@ I’m using it to improve my problem-solving, syntax recall, and speed in writin
 - Build muscle memory for syntax
 - Improve logic and problem-solving for AI research
 - Prepare for future interviews and ML code writing
-
----
-
-## 🗓 Daily Log Example
-
-| Date       | Topic                 | File               |
-|------------|-----------------------|--------------------|
-| 2025-06-27 | Variables, input, ops | `day01_basics.py`  |
-| 2025-06-28 | Lists, loops          | `day02_lists.py`   |
-| 2025-06-29 | Functions, scope      | `day03_funcs.py`   |
-
 ---
 
 ## 🧰 Practice Sources
